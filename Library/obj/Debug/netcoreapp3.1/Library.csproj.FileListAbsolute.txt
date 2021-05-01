@@ -1,0 +1,13 @@
+D:\VS Projects\Equiobe\Library\bin\Debug\netcoreapp3.1\Library.exe
+D:\VS Projects\Equiobe\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+D:\VS Projects\Equiobe\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+D:\VS Projects\Equiobe\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+D:\VS Projects\Equiobe\Library\bin\Debug\netcoreapp3.1\Library.dll
+D:\VS Projects\Equiobe\Library\bin\Debug\netcoreapp3.1\Library.pdb
+D:\VS Projects\Equiobe\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+D:\VS Projects\Equiobe\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+D:\VS Projects\Equiobe\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+D:\VS Projects\Equiobe\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+D:\VS Projects\Equiobe\Library\obj\Debug\netcoreapp3.1\Library.dll
+D:\VS Projects\Equiobe\Library\obj\Debug\netcoreapp3.1\Library.pdb
+D:\VS Projects\Equiobe\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
